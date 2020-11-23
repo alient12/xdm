@@ -20,6 +20,9 @@ XDM seamlessly integrates with Google Chrome, Mozilla Firefox Quantum, Opera, Vi
 | 7.2.10 | [MSI installer][10] | [Linux installer][11] | [TBD][12] | [Portable JAR (Java 11)][13] |
 | 7.2.8 | [MSI installer][14] | [Linux installer][15] | [DMG installer][16] | [JAR (Java 11)][17] |
  	 	 	
+## Screenshots of Changed UI
+| ![changed-icon-img1](https://github.com/alient12/xdm/blob/master/docs/changed-icon-img1.png) |
+| ![changed-icon-img2](https://github.com/alient12/xdm/blob/master/docs/changed-icon-img2.png) |
 
 ## Screenshots
 
